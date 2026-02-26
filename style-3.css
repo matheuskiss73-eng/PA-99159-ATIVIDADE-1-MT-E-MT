@@ -17,13 +17,14 @@ body{
 
 h1{
     text-align: center;
-    color: aliceblue(49, 49, 182);
-    font-size: 40px;
-    margin: 20px;
-
+   color: rgb(14, 12, 161);
+   position: relative; 
+   top: 40px;
 } 
 p{
     text-align: justify;
+    position: absolute;
+    top: 90px;
     font-size: 15px;
     color:blanchedalmond;
     font-family: 'Arial';
