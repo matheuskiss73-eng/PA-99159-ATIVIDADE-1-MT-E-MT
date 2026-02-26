@@ -5,3 +5,76 @@
     box-sizing: border-box;
 
 } 
+
+body{
+    background-image: url("img-site/red-bull-macro-shot-lz4smav8g0kmozxj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+}
+
+
+h1{
+    text-align: center;
+    color: aliceblue(49, 49, 182);
+    font-size: 40px;
+    margin: 20px;
+
+} 
+p{
+    text-align: justify;
+    font-size: 15px;
+    color:blanchedalmond;
+    font-family: 'Arial';
+    margin: 20px;
+    background-color: rgba(95, 91, 91, 0.808);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+hr{ 
+    max-width: 50%;
+    margin: 20px auto;
+
+} 
+a{ display: block;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px auto;
+    color: blue;
+} 
+
+button{
+    position: absolute;
+    top: 690px;
+    left: 500px;
+    padding: 5px 30px;
+    border-radius: 7px;
+    cursor: pointer;
+    color: blue;
+
+    
+} 
+
+.img-logo{
+    position: absolute;
+    top: 550px; 
+    left: 5px;
+    width: 300px;
+    
+} 
+
+h2{
+    color: rgb(231, 225, 225);
+    font-size: 24px;
+    margin: 20px;
+    position: absolute;
+    top: 350px;
+    left: 5px;
+}
+#texto-estatica{
+    position: absolute;
+    top: 400px;
+}
