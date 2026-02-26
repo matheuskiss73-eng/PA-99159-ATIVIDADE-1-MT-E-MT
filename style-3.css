@@ -15,7 +15,6 @@ body{
     
 }
 
-
 h1{
     text-align: center;
     color: aliceblue(49, 49, 182);
@@ -65,9 +64,7 @@ button{
     width: 300px;
     
 } 
-
-h2{
-    color: rgb(231, 225, 225);
+h2{ color: rgb(231, 225, 225);
     font-size: 24px;
     margin: 20px;
     position: absolute;
